@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  background-color: #ecf4f3;
+  font-family: 'Peddana', serif;
+  font-size: 1.6rem;
+}
+
+input {
+  margin-bottom: 0.5rem;
+}
+
+h1 {
+  margin: 3rem auto 2rem auto;
+  font-size: 5rem;
+  color: #006a71;
+  font-family: 'News Cycle', sans-serif;
+}
+
+input {
+  font-family: 'Peddana', serif;
+  font-size: 1.6rem;
+  width: 20rem;
+  margin: auto;
+}
+
+label {
+  margin-top: 1.2rem;
+}
+
+.main-container {
+  border: 2px solid #ff7e67;
+  padding: 5rem;
+  width: 40rem;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.image {
+  height: 10rem;
+  border-radius: 20px;
+}
+
+.container {
+  margin-top: 5rem;
+}
+
+.first-label {
+  margin-top: 0px;
+}
+
+.button {
+  margin-top: 1.2rem;
+  font-size: 1.6rem;
+  padding: 0.3rem 0.9rem 0.1rem;
+}
