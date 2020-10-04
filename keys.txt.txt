@@ -1,0 +1,4 @@
+URL = "https://us2.api.mailchimp.com/3.0/lists/3e0d94d24f"
+AUTH = "roy_a2yush:7e998fea468b70a6014d8fdf86aa6f57-us2"
+//7e998fea468b70a6014d8fdf86aa6f57-us2
+//3e0d94d24f
